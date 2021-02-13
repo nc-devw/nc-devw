@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
-I'm Ignacio Contreras, a full stack developer focused on the back-end.
-I like to design and apply all my knowledge to create good work and memorable experiences.
+Soy Ignacio Contreras, un desarrollador full stack centrado en backend.
+Me gusta diseñar y aplicar todos mis conocimientos para crear buenos trabajos y experiencias
+memorables.
 
-- 🔭 I’m currently working on QuizzMeApp a mobile application made in react native.
-- 🌱 I'm looking to get a job where I can expand my knowledge.
-- 📫 Feel free to contact me: nc.devw@gmail.com
+- 🔭 Actualmente estoy trabajando en QuizmeApp una aplicacion creada con react native.
+- 🌱 Busco conseguir un trabajo donde pueda ampliar mis conocimientos.
+- 📫 Puedes contactarme en: nc.devw@gmail.com
 - ⚡ Portfolio: https://nc-devw.github.io/portfolio/
 - 💬 LinkedIn: https://www.linkedin.com/in/ignacio-contreras/
